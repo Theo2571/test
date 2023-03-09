@@ -1,0 +1,9 @@
+.home{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.news_link {
+    text-decoration: none;
+    color: cornflowerblue;
+}
